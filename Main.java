@@ -6,6 +6,6 @@ public class Main {
                 toplam += i * i;
             }
         }
-        System.out.println("Çift sayıların karelerinin toplamı: " + toplam);
+        System.out.println("Cift sayilarin karelerinin toplami: " + toplam);
     }
 }
